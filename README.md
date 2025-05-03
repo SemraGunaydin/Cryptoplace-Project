@@ -1,14 +1,47 @@
-# React + Vite
+# 💰 Cryptoplace Project
+Cryptoplace is an online digital currency tracking system designed to provide users with real-time data and insights into various cryptocurrencies.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🔍 Features
+View detailed information for each coin, including:
 
-Currently, two official plugins are available:
+- Name
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Logo
 
-## Expanding the ESLint configuration
+- Price
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Cryptoplace-Project
-# Cryptoplace-Project
+- Description
+
+- Real-time updates
+
+- Live charts and performance analytics
+
+- Currency values are available in multiple fiat currencies.
+
+- Fully responsive and user-friendly UI for seamless experience across devices.
+
+# 🛠️ Technologies Used
+
+- ⚛️ React
+
+- ⚡ Vite
+
+- 🎨 Tailwind CSS
+
+- 🔗 React Icons
+
+- 🌐 Axios
+
+- 📡 External APIs
+
+- 📊 Charting Libraries
+
+  # 🎞️ Preview
+  
+![CryptoProject](https://github.com/user-attachments/assets/005e419e-3b49-4120-b7b7-b54bd64f70c5)
+
+
+# 📧 Contact
+- gunaydinsemra34@gmail.com
+- semra.gunaydinwork@outlook.com
+
